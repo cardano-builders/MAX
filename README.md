@@ -1,62 +1,66 @@
-# [Jekyll](https://jekyllrb.com/)
+# MAX Stake Pool
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
-[![Linux Build Status](https://img.shields.io/travis/jekyll/jekyll/master.svg?label=Linux%20build)][travis]
-[![Windows Build status](https://img.shields.io/appveyor/ci/jekyll/jekyll/master.svg?label=Windows%20build)][appveyor]
-[![Maintainability](https://api.codeclimate.com/v1/badges/8ba0cb5b17bb9848e128/maintainability)][codeclimate]
-[![Test Coverage](https://api.codeclimate.com/v1/badges/8ba0cb5b17bb9848e128/test_coverage)][coverage]
-[![Security](https://hakiri.io/github/jekyll/jekyll/master.svg)][hakiri]
-[![Backers on Open Collective](https://opencollective.com/jekyll/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/jekyll/sponsors/badge.svg)](#sponsors)
+Earn the MAX rewards, by delegating your stake to the MAX stake pool.
 
-[ruby-gems]: https://rubygems.org/gems/jekyll
-[codeclimate]: https://codeclimate.com/github/jekyll/jekyll
-[coverage]: https://codeclimate.com/github/jekyll/jekyll/coverage
-[hakiri]: https://hakiri.io/github/jekyll/jekyll/master
-[travis]: https://travis-ci.org/jekyll/jekyll
-[appveyor]: https://ci.appveyor.com/project/jekyll/jekyll/branch/master
+Over 950,000 ADA(₳) of personal stake, 
+pledged by the cardano.builders team.
 
-Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind [GitHub Pages](https://pages.github.com), which you can use to host sites right from your GitHub repositories.
+The choice for winners!
 
-## Philosophy
+MAX= ₳₳₳ = $$$
 
-Jekyll does what you tell it to do — no more, no less. It doesn't try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Jekyll gets out of your way and allows you to concentrate on what truly matters: your content.
+Earn ₳ today while building a better Cardano future.
 
-See: https://jekyllrb.com/philosophy
+ONLY 1% pool fee!
 
-## Getting Started
+## Our Commitment
 
-* [Install](https://jekyllrb.com/docs/installation/) the gem
-* Read up about its [Usage](https://jekyllrb.com/docs/usage/) and [Configuration](https://jekyllrb.com/docs/configuration/)
-* Take a gander at some existing [Sites](https://github.com/jekyll/jekyll/wiki/sites)
-* [Fork](https://github.com/jekyll/jekyll/fork) and [Contribute](https://jekyllrb.com/docs/contributing/) your own modifications
-* Have questions? Check out our official forum community [Jekyll Talk](https://talk.jekyllrb.com/) or [`#jekyll` on irc.freenode.net](https://botbot.me/freenode/jekyll/)
+To demonstrate our commitment and resolve, our team has pledged over 950,000₳ to this pool. We are building a better future. Block by Block. Epoch by Epoch. We are the cardano.builders.
 
-## Diving In
 
-* [Migrate](http://import.jekyllrb.com/docs/home/) from your previous system
-* Learn how [Front Matter](https://jekyllrb.com/docs/front-matter/) works
-* Put information on your site with [Variables](https://jekyllrb.com/docs/variables/)
-* Customize the [Permalinks](https://jekyllrb.com/docs/permalinks/) your posts are generated with
-* Use the built-in [Liquid Extensions](https://jekyllrb.com/docs/templates/) to make your life easier
-* Use custom [Plugins](https://jekyllrb.com/docs/plugins/) to generate content specific to your site
-* Watch [video tutorials from Giraffe Academy](https://jekyllrb.com/tutorials/video-walkthroughs/)
+## Our Mission: 
 
-## Need help?
+    • Ensure Maximum Rewards: Only 1% fee! That's it. We only aim to cover the costs of running our servers. Don't pay the 6-10% that other pools charge? Stake with us, less fees means more ADA(₳) in your wallet. Cha-ching!
+    • Create Generational Wealth: Set it and forget it. Pledge once and let us do all the heavy lifting. Earning rewards for generations to come. Spend your free time thinking about what you are going to buy when ADA(₳) hits $10 per coin. Lamborghini, Mega Yacht, Mansion in the Bahamas or all of the above.
+    • Maintain High Availability: We are running on multiple servers that are geographically separated with redundant internet and power backups. Other pools miss blocks and don't earn maximum rewards. The ONLY1 stake pool is ALWAYS available, ALWAYS online, 24/7.
+    • Remain Privacy Focused: We are hosted in non 14-eyes countries that respect your privacy. It is nobodies business to know, how much ADA(₳) you have or how many rewards you have earned. Your wallet address will remain private. 
+    • Unparalleled Performance: The MAX stake pool run Enterprise Class hardware. We guarantee an up-time of 99.999%. Our goal is to be the fastest and highest performing stake pool on the network. We aim to win all slot battles and run offs. More blocks created, more rewards for you!
+    • We have configured the MAX pool with one outward facing IP address. Run by multiple back-end servers with an expert DNS routing fail over policy. This means that the entire world internet would have to shut down before our pool gets knocked offline.
+    • Leverage Our Expertise: Choose the best. Our team has world class experience working for the top companies in industry; such as Amazon Web Services, Netflix, Twitter, and Alphabet. 
+    • Don't trust the part-time, weekend hobbyist, who is running a stake pool in their basement.
+    • Safeguard through Security:  The MAX stake pool is a virtual Fort Knox. Air-Gapped/Offline signing keys. Security polices in place to withstand large scale DDoS Attacks. Industry grade firewall and encryption.
 
-If you don't find the answer to your problem in our [docs](https://jekyllrb.com/docs/), or in the [troubleshooting section](https://jekyllrb.com/docs/troubleshooting/), ask the [community](https://jekyllrb.com/docs/community/) for help.
 
-## Code of Conduct
 
-In order to have a more open and welcoming community, Jekyll adheres to a
-[code of conduct](CODE_OF_CONDUCT.markdown) adapted from the Ruby on Rails code of
-conduct.
 
-Please adhere to this code of conduct in any interactions you have in the
-Jekyll community. It is strictly enforced on all official Jekyll
-repositories, websites, and resources. If you encounter someone violating
-these terms, please let one of our [core team members](https://jekyllrb.com/team/#core-team) know and we will address it as soon as possible.
+## WHAT IS CARDANO?
 
-## Credits
+Cardano is a groundbreaking proof-of-stake blockchain network, being developed into a decentralized application (DApp) development platform with a multi-asset ledger and verifiable smart contracts. Built with the rigor of high-assurance formal development methods, Cardano aims to achieve the scalability, interoperability, and sustainability needed for real-world applications. Cardano is designed to be the platform of choice for the large-scale, mission-critical DApps that will underpin the economy of the future.
+
+Based on peer-reviewed academic research, Cardano has an ethos of openness and transparency. All of the research and technical specifications that underpin Cardano are publicly published, and all Cardano development activity is made available to the public. Cardano is designed by a global team of experts who are leaders in disciplines ranging from distributed systems to programming languages and game theory and is jointly developed by IOHK and partners. IOHK develops the technology, the Cardano Foundation is responsible for supervising development and promoting Cardano, while Emurgo drives commercial adoption. While we are building Cardano, we are merely custodians. When the network is fully decentralized it will belong to the community, and it will be the community who decide its future through advanced governance features.
+
+## WHAT IS DELEGATION?
+
+Delegation is the process by which ADA(₳) holders delegate the stake associated with their ADA(₳) to a stake pool. It allows ADA(₳) holders that do not have the skills or desire to run a node to participate in the network and be rewarded in proportion to the amount of stake delegated.
+
+## WHAT IS THE CARDANO ROADMAP?
+
+The Cardano roadmap is a summary of Cardano development, which has been organized into five eras: Byron, Shelley, Goguen, Basho, and Voltaire. Each era is centered around a set of functionalities that will be delivered across multiple code releases.
+While the eras of Cardano will be delivered sequentially, the work for each era happens in parallel, with research, prototyping, and development often in progress all at once across the different development streams.
+The work of each era is gathered and presented on its dedicated page, representing years of effort. Here you will find an overview of the goals of the era, as well as descriptions of the core functional components, links to associated academic research, status updates, and even real-time code commits.
+
+## Cardano Methodology
+
+Academic Research
+Unlike many other blockchains, Cardano does not rely on technical foundations taken from Bitcoin or other cryptocurrency systems. Instead, IOHK works with world-leading academics on fundamental research, most of which is subject to academic peer review, with papers presented at top-tier international conferences. The work on all major components and functional areas begins with such research to determine what is possible and what is the best way to accomplish it.
+Prototyping
+In collaboration with the research team, a technical prototyping team experiments with implementations of the functions and approach described in the research. The objective is to make what is theoretically possible actually possible while learning lessons about real-world technical and functional implementation issues, enabling the creation of technical specifications for building the actual product.
+Technical Specifications
+In collaboration with prototyping, technical specifications are created and published based on research and prototyping results, setting out expected functionality and behavior. These specifications ensure that the final code implementation is true to the original vision of the research, accomplishes the required functionality, and is technically feasible.
+Formal Development Methods
+IOHK engineers make great use of formal development methods: rigorous, mathematical techniques for testing that software works exactly as intended. Typically only employed in high-stakes applications such as avionics software, systems for space flight, or high-volume banking software, IOHK is applying this level of rigor to Cardano development in a blockchain industry first.
+Functional Programming
+IOHK embraces functional programming languages, most notably Haskell. Not only are functional programming languages less prone to ambiguity and human error than other languages, they are easier to test and verify from a mathematical standpoint, strengthening IOHK’s commitment to high-assurance formal development.
+
 
 
