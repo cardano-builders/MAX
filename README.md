@@ -20,17 +20,23 @@ To demonstrate our commitment and resolve, our team has pledged over 950,000₳ 
 
 ## Our Mission: 
 
-   • Ensure Maximum Rewards: Only 1% fee! That's it. We only aim to cover the costs of running our servers. Don't pay the 6-10% that other pools charge? Stake with us, less fees means more ADA(₳) in your wallet. Cha-ching!
-   • Create Generational Wealth: Set it and forget it. Pledge once and let us do all the heavy lifting. Earning rewards for generations to come. Spend your free time thinking about what you are going to buy when ADA(₳) hits $10 per coin. Lamborghini, Mega Yacht, Mansion in the Bahamas or all of the above.
-   • Maintain High Availability: We are running on multiple servers that are geographically separated with redundant internet and power backups. Other pools miss blocks and don't earn maximum rewards. The ONLY1 stake pool is ALWAYS available, ALWAYS online, 24/7.
-   • Remain Privacy Focused: We are hosted in non 14-eyes countries that respect your privacy. It is nobodies business to know, how much ADA(₳) you have or how many rewards you have earned. Your wallet address will remain private. 
-   • Unparalleled Performance: The MAX stake pool run Enterprise Class hardware. We guarantee an up-time of 99.999%. Our goal is to be the fastest and highest performing stake pool on the network. We aim to win all slot battles and run offs. More blocks created, more rewards for you!
-   • We have configured the MAX pool with one outward facing IP address. Run by multiple back-end servers with an expert DNS routing fail over policy. This means that the entire world internet would have to shut down before our pool gets knocked offline.
-   • Leverage Our Expertise: Choose the best. Our team has world class experience working for the top companies in industry; such as Amazon Web Services, Netflix, Twitter, and Alphabet. 
-   • Don't trust the part-time, weekend hobbyist, who is running a stake pool in their basement.
-   • Safeguard through Security:  The MAX stake pool is a virtual Fort Knox. Air-Gapped/Offline signing keys. Security polices in place to withstand large scale DDoS Attacks. Industry grade firewall and encryption.
+Ensure Maximum Rewards: Only 1% fee! That's it. We only aim to cover the costs of running our servers. Don't pay the 6-10% that other pools charge? Stake with us, less fees means more ADA(₳) in your wallet. Cha-ching!
 
+Create Generational Wealth: Set it and forget it. Pledge once and let us do all the heavy lifting. Earning rewards for generations to come. Spend your free time thinking about what you are going to buy when ADA(₳) hits $10 per coin. Lamborghini, Mega Yacht, Mansion in the Bahamas or all of the above.
+ 
+Maintain High Availability: We are running on multiple servers that are geographically separated with redundant internet and power backups. Other pools miss blocks and don't earn maximum rewards. The ONLY1 stake pool is ALWAYS available, ALWAYS online, 24/7.
 
+Remain Privacy Focused: We are hosted in non 14-eyes countries that respect your privacy. It is nobodies business to know, how much ADA(₳) you have or how many rewards you have earned. Your wallet address will remain private. 
+
+Unparalleled Performance: The MAX stake pool run Enterprise Class hardware. We guarantee an up-time of 99.999%. Our goal is to be the fastest and highest performing stake pool on the network. We aim to win all slot battles and run offs. More blocks created, more rewards for you!
+ 
+We have configured the MAX pool with one outward facing IP address. Run by multiple back-end servers with an expert DNS routing fail over policy. This means that the entire world internet would have to shut down before our pool gets knocked offline.
+
+Leverage Our Expertise: Choose the best. Our team has world class experience working for the top companies in industry; such as Amazon Web Services, Netflix, Twitter, and Alphabet. 
+
+Don't trust the part-time, weekend hobbyist, who is running a stake pool in their basement.
+
+Safeguard through Security:  The MAX stake pool is a virtual Fort Knox. Air-Gapped/Offline signing keys. Security polices in place to withstand large scale DDoS Attacks. Industry grade firewall and encryption.
 
 
 ## WHAT IS CARDANO?
